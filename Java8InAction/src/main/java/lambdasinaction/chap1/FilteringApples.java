@@ -7,7 +7,7 @@ public class FilteringApples{
 
 //  Adding comments to check branch changes
     public static void main(String ... args){
-        System.out.println("Testing FilteringApples");
+        System.out.println("Testing FilteringApples Pipeline");
 
         List<Apple> inventory = Arrays.asList(new Apple(80,"green"),
                                               new Apple(155, "green"),

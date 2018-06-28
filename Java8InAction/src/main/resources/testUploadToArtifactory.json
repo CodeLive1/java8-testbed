@@ -1,4 +1,4 @@
-def uploadSpec = """{
+{
     "files": [
         {
           "pattern": "$JENKINS_HOME/workspace/Upload_Package_To_Artifactory/*.jar",
@@ -6,4 +6,4 @@ def uploadSpec = """{
           "regexp": "true"
         }
     ]
-}"""
+}

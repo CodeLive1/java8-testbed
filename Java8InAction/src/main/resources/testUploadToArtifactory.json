@@ -2,7 +2,7 @@
     "files": [
         {
           "pattern": "$JENKINS_HOME/workspace/Upload_Package_To_Artifactory/*.jar",
-          "target": "Sonar06192018/",
+          "target": "Sonar06192018/"
         }
     ]
 }
